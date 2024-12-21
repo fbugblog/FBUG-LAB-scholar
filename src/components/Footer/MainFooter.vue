@@ -1,3 +1,4 @@
+<script setup lang="ts"></script>
 <template>
   <div class="main-footer">main footer?</div>
 </template>
